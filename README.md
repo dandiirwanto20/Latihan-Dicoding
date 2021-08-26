@@ -2,7 +2,7 @@ Latihan-Dicoding
 ==
 Dicoding
 --
-*biodata
+*biodata*
 -Angkatan 19
 -Angkatan 18
 -Angkatan 17
